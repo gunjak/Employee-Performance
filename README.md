@@ -1,9 +1,5 @@
-# INX-Future-Inc-Employee-Performance-Analysis-using-Power-BI
-Created Interactive Dashboard &amp; Analyzed core underlying causes of poor employee performance
-
 ## **Project Objective**
-
-Mr Brain, CEO of the **INX Future Inc data analytics and automation solutions** provider wants us to create an interactive dashboard to analyse the employee performance indexes and track the core underlying causes of their performance issues (clear indicators of non-performing employees).
+To create an interactive dashboard to analyse the employee performance indexes and track the core underlying causes of their performance issues (clear indicators of non-performing employees).
 
 ## **Questions (KPIs)**
 - Does educational level responsible for the attrition of employees?
